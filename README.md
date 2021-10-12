@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Hello my name is Rosio!
 - 🔭 I’m currently working on a fullstack software engineering immersive with Codesmith.
-- 🌱 I’m currently developing my skills in software engineering and data analysis!
+<!-- - 🌱 I’m currently developing my skills in software engineering and data analysis!
 - 📫 How to reach me: rosio_reyes@yahoo.com
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I am learning another language... Korean!
+- ⚡ Fun fact: I am learning another language... Korean! -->
